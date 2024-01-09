@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IsaacNdala
-- 👀 I’m interested in Frontend and Backend
-- 📫 Reach me
+- 👨🏾‍💻 I’m Software Developer
 
 <!---
 IsaacNdala/IsaacNdala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
