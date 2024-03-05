@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaacNdala
+- 👋🏾 Hi, I’m @IsaacNdala
 - 👨🏾‍💻 I’m Software Developer
 
 <!---
