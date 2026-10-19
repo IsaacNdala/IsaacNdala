@@ -1,5 +1,5 @@
-- 👋🏾 Hi, I’m @IsaacNdala
-- 👨🏾‍💻 I’m Software Developer
+- 👋🏾 Hi, I’m IsaacNdala
+- 👨🏾‍💻 I’m Software Engineer
 
 <!---
 IsaacNdala/IsaacNdala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
